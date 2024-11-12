@@ -1,11 +1,11 @@
 h1{
-    color: rgb(30, 81, 94); 
+    color: rgb(223, 162, 83); 
     font-size: 30px;
 }
 p{
-    color:rgb(255, 115, 0);
+    color:rgb(132, 0, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
-    border: 2px solid rgb(142, 236, 18);
+    border: 2px solid rgb(236, 18, 18);
 }
